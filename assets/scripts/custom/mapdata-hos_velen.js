@@ -1526,6 +1526,10 @@ window.mapdata_hos_velen = {
 		coords: [[234.469, 105.234]],
 		label: $.t("v:signpost.label.cavern"),
 		popup: $.t("v:signpost.desc.cavern")
+	}, {
+		coords: [[239.813, 175.975]],
+		label: $.t("v:signpost.label.garinEstate"),
+		popup: $.t("v:signpost.desc.garinEstate")
 	}, { // E Novigrad
 		coords: [[205.438, 157.313]],
 		label: $.t("v:signpost.label.alness"),
