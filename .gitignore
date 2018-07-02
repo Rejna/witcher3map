@@ -6,3 +6,4 @@ dist
 .DS_Store
 witcher3map-maps
 tmp
+package-lock.json
