@@ -282,7 +282,8 @@
 			"lurtch": "Lurtch",
 			"lindenvale": "Lindenvale",
 			"maraudersBridge": "Marauders&#39; Bridge",
-			"grotto": "Grotto"
+			"grotto": "Grotto",
+			"garinEstate": "Garin Estate"
 		},
 		"desc": {
 			"hierarchSquare": "Until quite recently a great many mages lived near Novigrad's main square. They fled when the witch hunters began their reign of terror, leaving many of the city's most beautiful townhouses abandoned and uncared for",
@@ -381,7 +382,8 @@
 			"lurtch": "Once the Evves family estate was located here and the area bore the name of Lord Evves&#39; wife, Mortilanca. When the couple died, their will stipulated their land be turned over to their serfs. The grateful peasants then founded a village of freeholders and named it after their first ealdorman, Lurtch, who had previously served as the Evves family&#39;s butler",
 			"lindenvale": "One of Velen&#39;s many impoverished villages, its poverty deepened by war levies and the epidemic that spread after the Nilfgaardians&#39; arrival",
 			"maraudersBridge": "After the Battle of Velen, marauders swarmed over this bridge in their rush to scavenge the battlefield",
-			"grotto": "A dark and hostile place which creaks from time to time with unsettling, throaty noises..."
+			"grotto": "A dark and hostile place which creaks from time to time with unsettling, throaty noises...",
+			"garinEstate": "Garin Estate description"
 		}
 	}
 }
