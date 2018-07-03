@@ -6,7 +6,7 @@ window.markers = {};
 //i18n init to translate search results
 $.i18n.init(i18noptions, function() {
 	$.i18n.loadNamespace('v', function() {
-		$.cachedScript("files/scripts/mapdata-velen.js").done(function(script, textStatus) {
+		$.cachedScript("files/scripts/mapdata-hos_velen.js").done(function(script, textStatus) {
 			$.i18n.loadNamespace('s', function() {
 				$.cachedScript("files/scripts/mapdata-skellige.js").done(function(script, textStatus) {
 					$.i18n.loadNamespace('w', function() {
@@ -16,7 +16,7 @@ $.i18n.init(i18noptions, function() {
 									$.i18n.loadNamespace('t', function() {
 										$.cachedScript("files/scripts/mapdata-toussaint.js").done(function(script, textStatus) {
 
-											processData('velen', mapdata_velen);
+											processData('hos_velen', mapdata_hos_velen);
 											processData('skellige', mapdata_skellige);
 											processData('white_orchard', mapdata_white_orchard);
 											processData('kaer_morhen', mapdata_kaer_morhen);

@@ -283,7 +283,19 @@
 			"lindenvale": "Lindenvale",
 			"maraudersBridge": "Marauders&#39; Bridge",
 			"grotto": "Grotto",
-			"garinEstate": "Garin Estate"
+            "garinEstate": "Garin Estate",
+            "chateauSarrasin": "Château Sarrasin",
+            "huntersCottage": "Hunters' Cottage",
+            "bowdon": "Bowdon",
+            "brunwich": "Brunwich",
+            "drakenHollowOutpost": "Draken Hollow Outpost",
+            "vonEverecEstate": "Von Everec Estate",
+            "upperMill": "Upper Mill",
+            "zeutzerCastle": "Zeutzer Castle",
+            "vikkWatchtower": "Vikk Watchtower",
+            "erde": "Erde",
+            "arnskrone": "Arnskrone",
+            "heddel": "Heddel"
 		},
 		"desc": {
 			"hierarchSquare": "Until quite recently a great many mages lived near Novigrad's main square. They fled when the witch hunters began their reign of terror, leaving many of the city's most beautiful townhouses abandoned and uncared for",
@@ -383,7 +395,19 @@
 			"lindenvale": "One of Velen&#39;s many impoverished villages, its poverty deepened by war levies and the epidemic that spread after the Nilfgaardians&#39; arrival",
 			"maraudersBridge": "After the Battle of Velen, marauders swarmed over this bridge in their rush to scavenge the battlefield",
 			"grotto": "A dark and hostile place which creaks from time to time with unsettling, throaty noises...",
-			"garinEstate": "Garin Estate description"
+            "garinEstate": "Garin Estate description",
+            "chateauSarrasin": "Chateau Sarrasin description",
+            "huntersCottage": "Hunters' Cottage description",
+            "bowdon": "Bowdon description",
+            "brunwich": "Brunwich description",
+            "drakenHollowOutpost": "Draken Hollow Outpost description",
+            "vonEverecEstate": "Von Everec Estate descritpion",
+            "upperMill": "Upper Mill description",
+            "zeutzerCastle": "Zeutzer Castle description",
+            "vikkWatchtower": "Vikk Watchtower description",
+            "erde": "Erde description",
+            "arnskrone": "Arnskrone description",
+            "heddel": "Heddel description"
 		}
 	}
 }

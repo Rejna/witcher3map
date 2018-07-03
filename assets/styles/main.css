@@ -42,7 +42,7 @@ div#map {
 	z-index: -1;
 }
 div#sidebar {
-	width: 360px;
+	width: 366px;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -161,7 +161,7 @@ ul.key > li > div.pill {
 	border-radius:7px;
 	font-size: 14px;
 	line-height: 17px;
-	max-width: 15px;
+	max-width: 19px;
 	float: left;
 	text-align: center;
 }
@@ -413,7 +413,7 @@ div#warn {
 div#hide-sidebar {
 	display: block;
 	position: absolute;
-	left: 390px;
+	left: 391px;
 	top: 0px;
 	background: rgba(0, 0, 0, .7) url(../images/sidebarhide.png) no-repeat 0px 3px;
 	border-bottom-right-radius: 8px;

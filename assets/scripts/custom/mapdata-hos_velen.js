@@ -1,6 +1,6 @@
 window.map_path   = 'hos_velen';
 window.map_sWest  = L.latLng(0, 0);
-window.map_nEast  = L.latLng(256, 224);
+window.map_nEast  = L.latLng(300, 300);
 window.map_center = [120, 120];
 window.map_mZoom  = 6;
 window.mapdata_hos_velen = {
@@ -764,7 +764,8 @@ window.mapdata_hos_velen = {
 			[153.063, 45.953],
 			[107.531, 36.859],
 			[104.422, 26.078],
-			[94.859, 28.031],
+            [94.859, 28.031],
+            [197.406, 225.969],
 			// SW Velen
 			[54.469, 51.313],
 			// SE Velen
@@ -1499,9 +1500,25 @@ window.mapdata_hos_velen = {
 		label: $.t("v:signpost.label.sarrasinGrange"),
 		popup: $.t("v:signpost.desc.sarrasinGrange")
 	}, {
+		coords: [[240.969, 124.563]],
+		label: $.t("v:signpost.label.chateauSarrasin"),
+		popup: $.t("v:signpost.desc.chateauSarrasin")
+	}, {
 		coords: [[236.125, 130.438]],
 		label: $.t("v:signpost.label.yantra"),
 		popup: $.t("v:signpost.desc.yantra")
+	}, {
+		coords: [[248.609, 125.125]],
+		label: $.t("v:signpost.label.huntersCottage"),
+		popup: $.t("v:signpost.desc.huntersCottage")
+	}, {
+		coords: [[258.172, 128.813]],
+		label: $.t("v:signpost.label.huntersCottage"),
+		popup: $.t("v:signpost.desc.huntersCottage")
+	}, {
+		coords: [[253.938, 152.750]],
+		label: $.t("v:signpost.label.bowdon"),
+		popup: $.t("v:signpost.desc.bowdon")
 	}, {
 		coords: [[237.031, 149.219]],
 		label: $.t("v:signpost.label.isolatedHut"),
@@ -1530,6 +1547,50 @@ window.mapdata_hos_velen = {
 		coords: [[239.813, 175.975]],
 		label: $.t("v:signpost.label.garinEstate"),
 		popup: $.t("v:signpost.desc.garinEstate")
+	}, {
+		coords: [[242.906, 175.969]],
+		label: $.t("v:signpost.label.garinEstate"),
+		popup: $.t("v:signpost.desc.garinEstate")
+	}, {
+		coords: [[242.969, 197.438]],
+		label: $.t("v:signpost.label.brunwich"),
+		popup: $.t("v:signpost.desc.brunwich")
+	}, {
+		coords: [[217.750, 184.906]],
+		label: $.t("v:signpost.label.drakenHollowOutpost"),
+		popup: $.t("v:signpost.desc.drakenHollowOutpost")
+	}, {
+		coords: [[228.188, 197.281]],
+		label: $.t("v:signpost.label.vonEverecEstate"),
+		popup: $.t("v:signpost.desc.vonEverecEstate")
+	}, {
+		coords: [[238.938, 211.953]],
+		label: $.t("v:signpost.label.upperMill"),
+		popup: $.t("v:signpost.desc.upperMill")
+	}, {
+		coords: [[220.781, 218.109]],
+		label: $.t("v:signpost.label.zeutzerCastle"),
+		popup: $.t("v:signpost.desc.zeutzerCastle")
+	}, {
+		coords: [[195.484, 194.109]],
+		label: $.t("v:signpost.label.vikkWatchtower"),
+		popup: $.t("v:signpost.desc.vikkWatchtower")
+	}, {
+		coords: [[203.500, 207.344]],
+		label: $.t("v:signpost.label.erde"),
+		popup: $.t("v:signpost.desc.erde")
+	}, {
+		coords: [[197.469, 223.313]],
+		label: $.t("v:signpost.label.arnskrone"),
+		popup: $.t("v:signpost.desc.arnskrone")
+	}, {
+		coords: [[176.250, 209.641]],
+		label: $.t("v:signpost.label.heddel"),
+		popup: $.t("v:signpost.desc.heddel")
+	}, {
+		coords: [[221.531, 150.844]],
+		label: $.t("v:signpost.label.moldavieResidence"),
+		popup: $.t("v:signpost.desc.moldavieResidence")
 	}, { // E Novigrad
 		coords: [[205.438, 157.313]],
 		label: $.t("v:signpost.label.alness"),
