@@ -11,7 +11,13 @@ window.mapdata_hos_velen = {
 			[82.797, 87.984],
 			[106.219, 31.016],
 			[86.703, 27.938],
-			[75.875, 26.844]
+            [75.875, 26.844],
+            [239.188, 70.406],
+            [249.953, 144.156],
+            [241.047, 156.203],
+            [236.641, 200.406],
+            [177.156, 211.219],
+            [185.000, 207.750]
 		],
 		label: $.t("abandoned.label"),
 		popup: $.t("abandoned.desc")
@@ -174,7 +180,20 @@ window.mapdata_hos_velen = {
 		coords: [[57.922, 26.797]],
 		label: $.t("banditcamp.label"),
 		popup: $.t("banditcamp.desc")
-	}],
+	}, {
+		coords: [
+            [254.188, 112.219],
+            [260.781, 165.375],
+            [261.031, 178.172],
+            [256.406, 208.016],
+            [225.813, 219.234],
+            [213.484, 226.078],
+            [205.250, 197.859],
+            [178.297, 195.984]
+		],
+		label: $.t("banditcamp.label"),
+		popup: $.t("banditcamp.desc")
+	},],
 
 // Barber
 	barber: [{
@@ -342,7 +361,6 @@ window.mapdata_hos_velen = {
 	grindstone: [{
 		coords: [
 			// Novigrad
-			[211.547, 97.453],
 			[210.641, 99.266],
 			// S Novigrad
 			[168.094, 91.391],
@@ -360,7 +378,11 @@ window.mapdata_hos_velen = {
 			[75.875, 25.531],
 			// SE Velen
 			[100.703, 167.141],
-			[102.531, 108.906]
+            [102.531, 108.906],
+            [196.797, 99.516],
+            [189.422, 97.578],
+            [165.359, 185.750],
+            [24.234, 150.219]
 		],
 		label: $.t("grindstone.label"),
 		popup: $.t("grindstone.desc")
@@ -375,7 +397,11 @@ window.mapdata_hos_velen = {
 				[98.578, 21.844],
 			// SE Velen
 				[49.641, 150.531],
-				[84.875, 123.281]
+                [84.875, 123.281],
+                [259.031, 128.656],
+                [248.219, 163.031],
+                [246.188, 182.719],
+                [180.906, 223.094]
 		],
 		label: $.t("guarded.label"),
 		popup: $.t("guarded.desc", {monster: ""})
@@ -769,7 +795,13 @@ window.mapdata_hos_velen = {
 			// SW Velen
 			[54.469, 51.313],
 			// SE Velen
-			[105.625, 148.141]
+            [105.625, 148.141],
+            [253.781, 134.109],
+            [238.203, 155.922],
+            [245.625, 211.859],
+            [241.063, 93.797],
+            [191.016, 194.688],
+            [185.250, 209.391]
 		],
 		label: $.t("hidden.label"),
 		popup: $.t("hidden.desc")
@@ -1500,17 +1532,9 @@ window.mapdata_hos_velen = {
 		label: $.t("v:signpost.label.sarrasinGrange"),
 		popup: $.t("v:signpost.desc.sarrasinGrange")
 	}, {
-		coords: [[240.969, 124.563]],
-		label: $.t("v:signpost.label.chateauSarrasin"),
-		popup: $.t("v:signpost.desc.chateauSarrasin")
-	}, {
 		coords: [[236.125, 130.438]],
 		label: $.t("v:signpost.label.yantra"),
 		popup: $.t("v:signpost.desc.yantra")
-	}, {
-		coords: [[248.609, 125.125]],
-		label: $.t("v:signpost.label.huntersCottage"),
-		popup: $.t("v:signpost.desc.huntersCottage")
 	}, {
 		coords: [[258.172, 128.813]],
 		label: $.t("v:signpost.label.huntersCottage"),
@@ -1544,11 +1568,7 @@ window.mapdata_hos_velen = {
 		label: $.t("v:signpost.label.cavern"),
 		popup: $.t("v:signpost.desc.cavern")
 	}, {
-		coords: [[239.813, 175.975]],
-		label: $.t("v:signpost.label.garinEstate"),
-		popup: $.t("v:signpost.desc.garinEstate")
-	}, {
-		coords: [[242.906, 175.969]],
+		coords: [[241.613, 175.975]],
 		label: $.t("v:signpost.label.garinEstate"),
 		popup: $.t("v:signpost.desc.garinEstate")
 	}, {
@@ -1588,10 +1608,14 @@ window.mapdata_hos_velen = {
 		label: $.t("v:signpost.label.heddel"),
 		popup: $.t("v:signpost.desc.heddel")
 	}, {
-		coords: [[221.531, 150.844]],
-		label: $.t("v:signpost.label.moldavieResidence"),
-		popup: $.t("v:signpost.desc.moldavieResidence")
-	}, { // E Novigrad
+		coords: [[239.188, 70.406]],
+		label: $.t("v:signpost.label.craneCape"),
+		popup: $.t("v:signpost.desc.craneCape")
+	}, {
+		coords: [[212.531, 221.969]],
+		label: $.t("v:signpost.label.kilkerinnRuins"),
+		popup: $.t("v:signpost.desc.kilkerinnRuins")
+	},  { // E Novigrad
 		coords: [[205.438, 157.313]],
 		label: $.t("v:signpost.label.alness"),
 		popup: $.t("v:signpost.desc.alness")

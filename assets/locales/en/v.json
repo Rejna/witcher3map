@@ -284,8 +284,7 @@
 			"maraudersBridge": "Marauders&#39; Bridge",
 			"grotto": "Grotto",
             "garinEstate": "Garin Estate",
-            "chateauSarrasin": "Château Sarrasin",
-            "huntersCottage": "Hunters' Cottage",
+            "huntersCottage": "Hunter's Cottage",
             "bowdon": "Bowdon",
             "brunwich": "Brunwich",
             "drakenHollowOutpost": "Draken Hollow Outpost",
@@ -294,8 +293,10 @@
             "zeutzerCastle": "Zeutzer Castle",
             "vikkWatchtower": "Vikk Watchtower",
             "erde": "Erde",
-            "arnskrone": "Arnskrone",
-            "heddel": "Heddel"
+            "arnskrone": "Arnskrone Castle Ruins",
+            "heddel": "Heddel",
+            "craneCape": "Crane Cape",
+            "kilkerinnRuins": "Kilkerinn Ruins"
 		},
 		"desc": {
 			"hierarchSquare": "Until quite recently a great many mages lived near Novigrad's main square. They fled when the witch hunters began their reign of terror, leaving many of the city's most beautiful townhouses abandoned and uncared for",
@@ -395,19 +396,20 @@
 			"lindenvale": "One of Velen&#39;s many impoverished villages, its poverty deepened by war levies and the epidemic that spread after the Nilfgaardians&#39; arrival",
 			"maraudersBridge": "After the Battle of Velen, marauders swarmed over this bridge in their rush to scavenge the battlefield",
 			"grotto": "A dark and hostile place which creaks from time to time with unsettling, throaty noises...",
-            "garinEstate": "Garin Estate description",
-            "chateauSarrasin": "Chateau Sarrasin description",
-            "huntersCottage": "Hunters' Cottage description",
-            "bowdon": "Bowdon description",
-            "brunwich": "Brunwich description",
-            "drakenHollowOutpost": "Draken Hollow Outpost description",
-            "vonEverecEstate": "Von Everec Estate descritpion",
-            "upperMill": "Upper Mill description",
-            "zeutzerCastle": "Zeutzer Castle description",
-            "vikkWatchtower": "Vikk Watchtower description",
-            "erde": "Erde description",
-            "arnskrone": "Arnskrone description",
-            "heddel": "Heddel description"
+            "garinEstate": "Some two hundred and forty years ago, a certain Josen Garin arrived in these lands. A Haaki traveler, writer, brawler and souse, Garin looked around and saw the local meadows in bloom, cool shadows beneath charming glades, and glorious sun-bathed fields. All this inspired him to settle down here for good. His new neighbours treated the arrival with suspicion, yet they changed their minds and warmed to him once he turned a gracious host who would fill their cups once and again with the exquisite wines he had brought with him from his homeland.",
+            "huntersCottage": "The Buckholt Hills have long been famed for the wealth of wild animals dwelling there, which is why the owner of nearby Sarrasin Grange once had a hunter's cottage built there, to ensure the daily provision of fresh game.",
+            "bowdon": "Bowdon was founded by writ of King Heribert the Quarrelsome. Unfortunately, the king was roaring drunk when they asked him to indicate on the map where to build the new settlement and slammed his finger down in the middle of the swamp. Those forced to settle there soon abandoned the unpleasant bog. Their empty dwellings became shelter for vagabonds and bandits.",
+            "brunwich": "This picturesque little village's beauty makes it a frequent subject of works by bards and poets. The best-known piece whose action is set in Brunwich is \"The Bethroting\", a farce penned by Stanislas Islas. The reputation thus gained has made it popular destination for bohemians from Oxenfurt, who escape here during the hottest months to pass the time with contests for the most beautiful feathered cap and hunts for a golden horn held at night in the nearby woods.",
+            "drakenHollowOutpost": "Defensive structure built during the reign of Vizimir the Just, in the 13th century, a time of intense Redanian-Temerian border conflicts. In the relative calm that followed, it fell into disuse, then disrepair.",
+            "vonEverecEstate": "The history of the von Everec estate is as tangled as that of the familiy itself. The once wealthy Redanian family's manor and lands were auctioned off after ther fell deeply in debt, but were returned to von Everec hands by Olgied, the infamous leader of an informal band of armed men calling themselves the Redanian Free Company. Despite the effort he went through to regain it, Olgierd abandoned the residence some time later, and dark legends concerning it now circulate among its neighours.",
+            "upperMill": "The local community held a raising bee to construct the new brick Upper Mill to replace the old wooden Lower Mill. Once finished, however, they decided closing a fully-functional mill just because there is a newer one would be a sinful waste, thus both mills remain in operation.",
+            "zeutzerCastle": "It is hard to say anything about Zeutzer Castle without mentioning the tragic death of Anastasia von Bourmann. Once one of the most powerful magnates in Redania, Count von Bourmann retreated from public life after the loss of his only child and never left his family manor to the very end of his days. Currently Zeutzer Castle is but a decaying ruin haunted by a sad past.",
+            "vikkWatchtower": "Legends claim ages ago the famed mage Alzur had his laboratory in the Vikk Watchtower.",
+            "erde": "This woodland settlement is almost entirely depopulated, and its proximity to Deadwight Wood scares off any potential new settlers.",
+            "arnskrone": "In its glory days, this castle buzzed with life as the hub of the Romilly family's activities. Today it is merely a dangerous ruin in the heart of a cursed wood.",
+            "heddel": "The village of Heddel was once known first and foremost for the fine lace undergarments produced here. Heddel lingerie aroused such controversy, however, that Novigrad hierarch personally forbade its production.",
+            "craneCape": "The lighthouse on Crane Cape has for centuries lit the way for vessels seeking safe passage from Kovir and Poviss to the Novigrad Port.",
+            "kilkerinnRuins": "It is difficult to believe this abandoned pile of debris in the middle of a forest is the famed Kilkerinn Palace, which, according to legend, once housed the renowned artist Giann'Lorenzo's workshop. His sculptures now command exorbitant prices at auction, making Kilkerinn a frequent target for plunderers seeking treasure."
 		}
 	}
 }
