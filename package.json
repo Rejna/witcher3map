@@ -38,7 +38,7 @@
   "homepage": "https://witcher3map.com/",
   "dependencies": {
     "compression": "^1.7.2",
-    "ddslick": "file:./custom_modules/ddslick",
+    "ddslick": "github:Rejna/ddslick",
     "express": "^4.16.3",
     "file-saver": "github:eligrey/FileSaver.js",
     "font-awesome": "^4.6.3",
@@ -65,7 +65,7 @@
     "jquery.nicescroll": "^3.7.6",
     "cli": "^1.0.1",
     "jshint": "^2.9.5",
-    "htmlhint": "file:./custom_modules/HTMLHint"
+    "htmlhint": "github:Rejna/HTMLHint"
   },
   "devDependencies": {}
 }
