@@ -944,7 +944,13 @@ window.mapdata_hos_velen = {
 			[44.984, 40.906],
 			[45.984, 41.656],
 			// SE Velen
-			[60.047, 126.375]
+            [60.047, 126.375],
+            [255.438, 119.516],
+            [239.859, 171.688],
+            [238.406, 199.594],
+            [235.000, 202.031],
+            [218.531, 184.188],
+            [206.453, 186.719]
 		],
 		label: $.t("monsternest.label"),
 		popup: $.t("monsternest.desc", {monster: ''})
@@ -1038,7 +1044,8 @@ window.mapdata_hos_velen = {
 			// SE Velen
 			[77.266, 147.797],
 			[100.641, 109.469],
-			[33.688, 206.219]
+            [33.688, 206.219],
+            [242.719, 197.516]
 		],
 		label: $.t("notice.label"),
 		popup: $.t("notice.desc")
@@ -1050,7 +1057,8 @@ window.mapdata_hos_velen = {
 			// NE Velen
 			[147.578, 119.578],
 			// NW Velen
-			[102.500, 33.828]
+            [102.500, 33.828],
+            [199.094, 186.891]
 		],
 		label: $.t("pid.label"),
 		popup: $.t("pid.desc", {monster: ''})

@@ -22,39 +22,39 @@
 		"deleteNote": "Delete Note"
 	},
 	"sidebar": {
-		"returnToMapSelection": "Return to Map Selection Page",
-		"alchemy": "Alchemy Supplies",
 		"abandoned": "Abandoned Site",
-		"armourer": "Armorer",
-		"armourerstable": "Armorer's Table",
-		"banditcamp": "Bandit Camp",
-		"barber": "Barber",
-		"blacksmith": "Blacksmith",
-		"brothel": "Brothel",
-		"loveInterest": "Love Interest",
-		"entrance": "Entrance",
-		"grindstone": "Grindstone",
-		"guarded": "Guarded Treasure",
-		"gwent": "Gwent Player",
-		"harbor": "Harbor",
-		"hansebase": "Hanse Base",
-		"herbalist": "Herbalist",
-		"hidden": "Hidden Treasure",
-		"innkeep": "Innkeep",
-		"kid": "Knight in Distress",
-		"monsternest": "Monster Nest",
-		"monsterden": "Monster Den",
-		"notice": "Notice Board",
-		"pid": "Person in Distress",
-		"pop": "Place of Power",
-		"poi": "Point of Interest",
-		"signalfire": "Signal Fire",
-		"signpost": "Sign Post",
-		"shopkeeper": "Shopkeeper",
-		"smugglers": "Smugglers' Cache",
-		"spoils": "Spoils of War",
-		"vintnercontract": "Vintner Contract",
-		"vineyardinfestation": "Vineyard Infestation"
+        "alchemy": "Alchemy Supplies",
+        "armourer": "Armorer",
+        "armourerstable": "Armorer's Table",
+        "banditcamp": "Bandit Camp",
+        "barber": "Barber",
+        "blacksmith": "Blacksmith",
+        "brothel": "Brothel",
+        "entrance": "Entrance",
+        "grindstone": "Grindstone",
+        "guarded": "Guarded Treasure",
+        "gwent": "Gwent Player",
+        "hansebase": "Hanse Base",
+        "harbor": "Harbor",
+        "herbalist": "Herbalist",
+        "hidden": "Hidden Treasure",
+        "innkeep": "Innkeep",
+        "kid": "Knight in Distress",
+        "loveInterest": "Love Interest",
+        "monsterden": "Monster Den",
+        "monsternest": "Monster Nest",
+        "notice": "Notice Board",
+        "pid": "Person in Distress",
+        "poi": "Point of Interest",
+        "pop": "Place of Power",
+        "returnToMapSelection": "Return to Map Selection Page",
+        "shopkeeper": "Shopkeeper",
+        "signalfire": "Signal Fire",
+        "signpost": "Sign Post",
+        "smugglers": "Smugglers' Cache",
+        "spoils": "Spoils of War",
+        "vineyardinfestation": "Vineyard Infestation",
+        "vintnercontract": "Vintner Contract"
 	},
 	"controls": {
 		"show": "Show All",
@@ -420,7 +420,13 @@
 						"enhanced": "Enhanced Wolven Silver Sword",
 						"superior": "Superior Wolven Silver Sword",
 						"mastercrafted": "Mastercrafted Wolven Silver Sword"
-					}
+                    },
+                    "manticore": {
+                        "standard": "Manticore Silver Sword"
+                    },
+                    "viper": {
+                        "standard": "Viper Silver Sword"
+                    }
 				},
 				"steelsword": {
 					"feline": {
@@ -446,7 +452,13 @@
 						"enhanced": "Enhanced Wolven Steel Sword",
 						"superior": "Superior Wolven Steel Sword",
 						"mastercrafted": "Mastercrafted Wolven Steel Sword"
-					}
+					},
+                    "manticore": {
+                        "standard": "Manticore Steel Sword"
+                    },
+                    "viper": {
+                        "standard": "Viper Steel Sword"
+                    }
 				},
 				"crossbow": {
 					"feline": "Feline Crossbow",
@@ -476,7 +488,10 @@
 						"enhanced": "Enhanced Wolven Armor",
 						"superior": "Superior Wolven Armor",
 						"mastercrafted": "Mastercrafted Wolven Armor"
-					}
+                    },
+                    "manticore": {
+                        "standard": "Manticore Armor"
+                    }
 				},
 				"boots": {
 					"feline": {
@@ -502,7 +517,10 @@
 						"enhanced": "Enhanced Wolven Boots",
 						"superior": "Superior Wolven Boots",
 						"mastercrafted": "Mastercrafted Wolven Boots"
-					}
+                    },
+                    "manticore" : {
+                        "standard": "Manticore Boots"
+                    }
 				},
 				"gauntlets": {
 					"feline": {
@@ -528,7 +546,10 @@
 						"enhanced": "Enhanced Wolven Gauntlets",
 						"superior": "Superior Wolven Gauntlets",
 						"mastercrafted": "Mastercrafted Wolven Gauntlets"
-					}
+                    },
+                    "manticore": {
+                        "standard": "Manticore Gauntlets"
+                    }
 				},
 				"trousers": {
 					"feline": {
@@ -554,7 +575,10 @@
 						"enhanced": "Enhanced Wolven Trousers",
 						"superior": "Superior Wolven Trousers",
 						"mastercrafted": "Mastercrafted Wolven Trousers"
-					}
+                    },
+                    "manticore": {
+                        "standard": "Manticore Trousers"
+                    }
 				}
 			}
 		}

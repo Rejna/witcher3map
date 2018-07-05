@@ -1,0 +1,38 @@
+{
+	"monsters": {
+		"basilisk": "Bazyliszek",
+		"cyclops": "Cyklop",
+		"drowners": "Utopce",
+		"endrega": "Endriaga",
+		"gargoyles": "Gargulce",
+		"ghost": "Duch",
+		"harpies": "Harpie",
+		"leshen": "Leszy",
+		"nekkers": "Nekkery",
+		"nekkerWarrior": "Nekker Wojownik",
+		"wolves": "Wilki",
+		"wraiths": {
+			"wraiths": "Upiory",
+			"wraith": "Upiór"
+		},
+		"wyvern": "Wiwerna"
+	},
+	"poi": {
+	},
+	"signpost": {
+		"label": {
+			"bastion": "Bastion",
+			"ironMine": "Kopalnia żelaza",
+			"kaerMorhen": "Kaer Morhen",
+			"lakesideHut": "Chata nad jeziorem",
+			"ruinedWatchtower": "Zrujnowana strażnica"
+		},
+		"desc": {
+			"bastion": "Dawniej trenowali tu młodzi wiedźmini, dziś bastion popadł w ruinę.",
+			"ironMine": "Wydobywano tu rudę żelaza na potrzeby wiedźmińskiej szkoły Wilka.",
+			"kaerMorhen": "Warownia Starego Morza, siedziba wiedźmińskiej szkoły cechu Wilka.",
+			"lakesideHut": "Kilkanaście lat temu mieszkał tu pustelnik, który warzył doskonały miód. Wiedźmini odwiedziali go od czasu i gawędzili o dalekich krajach.",
+			"ruinedWatchtower": "Straźnica nad jeziorem była kiedyś chlubą wiedźminów cechu wilka, dziś w jej ruinach hula tylko wiatr."
+		}
+	}
+}

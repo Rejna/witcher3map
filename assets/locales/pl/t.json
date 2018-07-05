@@ -4,8 +4,8 @@
 		"lafargueQuest": "Available after finishing \"Master Master Master Master!\" (lvl 40) quest. "
 	},
 	"hansebase": {
-		"label": "Hanse Base",
-		"desc": "Expect to run into armed-to-the-teeth bandits here. "
+		"label": "Kryjówka Hanzy",
+		"desc": "W tym miejscu można się spodziewać uzbrojonych po zęby bandytów."
 	},
 	"innkeep": {
 		"label": {
@@ -15,16 +15,16 @@
 			"houseofpleasure": "The Bells of Beauclair - House of Pleasure",
 			"barrelandbung": "The Barrel and Bung Inn"
 		},
-		"popup": "Innkeep",
-		"desc": "Here you can buy or sell various items."
+		"popup": "Karczma",
+		"desc": "W tym miejscu można kupić lub sprzedać różne przedmioty."
 	},
 	"kid": {
-		"label": "Knight Errant in Distress",
-		"desc": "Here you can help a knight errant fight bandits. "
+		"label": "Błędny rycerz w potrzebie",
+		"desc": "W tym miejscu możesz pomóc błędnemu rycerzowi w walce z bandytami."
 	},
 	"misc": {
 		"label": {
-			"gwent": "Gwent Player"
+			"gwent": "Gracz Gwinta"
 		},
 		"desc": {
 			"insideden": "Inside the Monster Den",
@@ -140,70 +140,70 @@
 	},
 	"contracts": {
 		"label": {
-			"biggamehunter": "Contract: Big Game Hunter",
-			"coldasice": "Contract: Feet as Cold as Ice",
-			"tufo": "Contract: The Tufo Monster",
-			"bonvineblues": "Contract: Bovine Blues"
+			"biggamehunter": "Beaclairskie safari",
+			"coldasice": "Jeśli nie chcesz mojej zguby...",
+			"tufo": "Zlecenie: Monstrum z Tufo",
+			"bonvineblues": "Zlecenie: Łaciate kłopoty"
 		},
 		"desc": {
-			"biggamehunter": "Level 37 Witcher Contract. Started on the Notice Board near Dulcinea Windmill",
-			"coldasice": "Level 45 - You get this Quest at the Notice Board near the Cockatrice Inn",
-			"tufo": "Level 48 - You get this Quest at the Notice Board in Flovive",
+			"biggamehunter": "Level 37 - tablica ogłoszeń przy wiatraku Dulcynei",
+			"coldasice": "Level 45 - tablica ogłoszeń przy gospodzie \"Kuroliszek\"",
+			"tufo": "Level 48 - Tablica ogłoszeń we wsi Flovivo",
 			"bonvineblues": "Level 38 - "
 		}
 	},
 	"signalfire": {
-		"label": "Signal Fire",
-		"desc": "If a signal fire is lit by a torch runner, reinforcements will arrive to help the bandits in their fight. "
+		"label": "Ognisko sygnałowe",
+		"desc": "Jeśli ognisko sygnałowe zostanie zapalone przez biegacza z pochodnią, na pomoc walczącym bandytom przybiegną posiłki."
 	},
 	"signpost": {
 		"label": {
-			"dulcineawindmill": "Dulcinea Windmill",
-			"cockatrice": "The Cockatrice Inn",
-			"plegmundsbridge": "Plegmund's Bridge",
-			"corvobianco": "Corvo Bianco Vineyard",
-			"palace": "Beauclair Palace",
-			"palacegardens": "Palace Gardens",
-			"embassy": "Nilfgaardian Embassy",
-			"gate": "Metinna Gate",
-			"francollarts": "Francollarts",
-			"fort": "Fort Astre Ruins",
-			"fox": "Fox Hollow",
-			"castelravello": "Castel Ravello Vineyard",
-			"cemetry": "Mère-Lachaiselongue Cemetry",
-			"prison": "Toussaint Prison",
-			"farm": "Gelenser Farm",
-			"ruins": "Termes Palace Ruins",
-			"mutnaruins": "Tesham Mutna Ruins",
-			"granplace": "Gran'Place",
-			"tunier": "Tourney Grounds",
-			"statue": "Prophet Lebioda Statue",
-			"hortense": "Hortense Vineyard",
-			"flovive": "Flovive",
-			"fortussar": "Fort Ussar Ruins",
-			"cottage": "Trastamara Hunting Cottage",
-			"montcranecastle": "Mont Crane Castle",
-			"duntynnecastle": "Dun Tynne Castle",
-			"duntynnehillside": "Dun Tynne Hillside",
-			"arthachpalaceruins": "Arthach Palace Ruins",
-			"thesilversalamanderinn": "The Silver Salamander Inn",
-			"tradingpost": "Trading Post",
-			"basanefarm": "Basane Farm",
-			"croixmill": "Count de la Croix's Mill",
-			"coopersgate": "Coopers Gate",
-			"haborgate": "Harbor Gate",
+			"dulcineawindmill": "Wiatrak Dulcynei",
+			"cockatrice": "Karczma \"Kuroliszek\"",
+			"plegmundsbridge": "Most Plegmunda",
+			"corvobianco": "Winnica Corvo Bianco",
+			"palace": "Pałac",
+			"palacegardens": "Ogrody Pałacowe",
+			"embassy": "Ambasada Nilfgaardu",
+			"gate": "Brama Metinnyjska",
+			"francollarts": "Wioska Francollarts",
+			"fort": "Ruiny warowni Astre",
+			"fox": "Wioska Lisie Doły",
+			"castelravello": "Winnica Castel Ravello",
+			"cemetry": "Cmentarz Mère-Lachaise",
+			"prison": "Więzienie",
+			"farm": "Farma Gelenserów",
+			"ruins": "Ruiny Termes",
+			"mutnaruins": "Ruiny Tesham Mutna",
+			"granplace": "Rynek Główny",
+			"tunier": "Błonia Turniejowe",
+			"statue": "Posąg Proroka Lebiody",
+			"hortense": "Winnica Hortense",
+			"flovive": "Wioska Flovive",
+			"fortussar": "Ruiny fortu Ussar",
+			"cottage": "Dom myśliwski Trastamary",
+			"montcranecastle": "Zamek Mont Crane",
+			"duntynnecastle": "Kasztel Dun Tynne",
+			"duntynnehillside": "Wzgórza Dun Tynne",
+			"arthachpalaceruins": "Ruiny pałacu Arthach",
+			"thesilversalamanderinn": "Karczma pod Srebrną Salamandrą",
+			"tradingpost": "Faktoria Kupiecka",
+			"basanefarm": "Folwark Basane",
+			"croixmill": "Młyn hrabiego de la Croix",
+			"coopersgate": "Brama Bednarzy",
+			"haborgate": "Brama Portowa",
 			"sansebastian": "San Sebastian",
-			"beauclairport": "Beauclair Port",
-			"coronatavineyard": "Coronata Vineyard",
-			"duntynnecrossroads": "Dun Tynne Crossroads",
-			"chuchotecave": "Chuchote Cave",
-			"sansretourvalley": "Sansretour Valley",
-			"riouxcannesoutpost": "Rioux-Cannes Outpost",
-			"seidhellyghadamphitheater": "Seidhe Llyghad Amphitheater",
-			"belgaardvineyard": "Belgaard Vineyard",
-			"lebiodasgate": "Lebioda's Gate",
-			"ardaisoquarry": "Ardaiso Quarry",
-			"casteldacciaabandonedestate": "Casteldaccia Abandoned Estate"
+			"beauclairport": "Port",
+			"coronatavineyard": "Winnica Coronata",
+			"duntynnecrossroads": "Rozdroża przy Dun Tynne",
+			"chuchotecave": "Jaskinia Szept",
+			"sansretourvalley": "Dolina Sansretour",
+			"riouxcannesoutpost": "Tartak Rioux-Cannes",
+			"seidhellyghadamphitheater": "Amfiteatr Seidhe Llygad",
+			"belgaardvineyard": "Winnica Belgaard",
+			"lebiodasgate": "Cmentarz Za Murami",
+			"ardaisoquarry": "Kamieniołom Ardaiso",
+			"casteldacciaabandonedestate": "Opuszczona posiadłość Casteldaccia"
 		},
 		"desc": {
 			"casteldacciaabandonedestate": "Maximus Macrinus was once a knight errant famed for showing no mercy to any bandits prowling the Champs-Dèsolès. After a long and storied career, he hung up his sword at his ancestral manor and settled in for a well-deserved retirement. No one knows what brought about the subsequent murder of his entire family. Some claim a giant descended from the mountains, others, that he ran afoul of one of the largest hanses. The only undisputed fact is that everyone with any sense now avoids going anywhere near Casteldaccia.",

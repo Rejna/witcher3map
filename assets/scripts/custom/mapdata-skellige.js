@@ -8,19 +8,23 @@ window.mapdata_skellige = {
 	abandoned: [{ // Hindarsfjall
 		coords: [[-32.916, 85.562]],
 		label: $.t("abandoned.label"),
-		popup: $.t("abandoned.desc") + '(lvl 15<span> ' + $.t("s:monsters.wolves") + '</span>)'
+		popup: $.t("abandoned.desc") + ' (lvl 15<span> ' + $.t("s:monsters.wolves") + '</span>)'
 	}, {
 		coords: [[-35.996, 92.439]],
 		label: $.t("abandoned.label"),
-		popup: $.t("abandoned.desc") + '(lvl 13<span> ' + $.t("s:monsters.harpies") + '</span>)'
+		popup: $.t("abandoned.desc") + ' (lvl 13<span> ' + $.t("s:monsters.harpies") + '</span>)'
 	}, { // Ard Skellig
 		coords: [[-23.745, -19.841]],
 		label: $.t("abandoned.label"),
-		popup: $.t("abandoned.desc") + '(lvl 15<span> ' + $.t("s:monsters.drowners") + '</span>)'
+		popup: $.t("abandoned.desc") + ' (lvl 15<span> ' + $.t("s:monsters.drowners") + '</span>)'
 	}, {
 		coords: [[-45.522, -49.570]],
 		label: $.t("abandoned.label"),
-		popup: $.t("abandoned.desc") + '(lvl 14<span> ' + $.t("s:monsters.bandits") + '</span>)'
+		popup: $.t("abandoned.desc") + ' (lvl 14<span> ' + $.t("s:monsters.bandits") + '</span>)'
+	},{
+		coords: [[-59.029, -3.296]],
+		label: $.t("abandoned.label"),
+		popup: $.t("abandoned.desc")
 	}],
 
 // Alchemy Supplies
@@ -62,7 +66,8 @@ window.mapdata_skellige = {
 		coords: [
 			// Hindarsfjall
 			[-28.159, 101.851],
-			[-28.825, 98.062],
+            [-28.825, 98.062],
+            [-29.210, 98.108],
 			[-32.806, 84.771],
 			// An Skellig
 			[50.247, 39.529],
@@ -1181,13 +1186,9 @@ window.mapdata_skellige = {
 		label: $.t("s:signpost.label.abandonedSawmill"),
 		popup: $.t("s:signpost.desc.abandonedSawmill")
 	}, {
-		coords: [[-22.614, 12.986]],
+		coords: [[-22.533, 17.996]],
 		label: $.t("s:signpost.label.gedyneith"),
 		popup: $.t("s:signpost.desc.gedyneith")
-	}, {
-		coords: [[-22.533, 17.996]],
-		label: $.t("s:signpost.label.gedyneith2"),
-		popup: $.t("s:signpost.desc.gedyneith2")
 	}, {
 		coords: [[-13.475, 24.390]],
 		label: $.t("s:signpost.label.whaleGraveyard"),
